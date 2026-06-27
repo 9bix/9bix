@@ -2,24 +2,23 @@
 
 <img 
   width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=220&section=header&text=9bix&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Bot%20Developer&descSize=20&descAlignY=58" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=220&section=header&text=9bix&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Discord%20Bots&descSize=20&descAlignY=58" 
 />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=031cfc&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-End;Criador+de+Bots+para+Discord;Node.js+%7C+Python+%7C+JavaScript+%7C+MongoDB;Construindo+projetos+modernos+e+escaláveis" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=031cfc&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Bots+para+Discord;JavaScript+%7C+TypeScript+%7C+Python;React+%7C+Next.js+%7C+Node.js;Open+Source+and+Building" />
 </p>
 
 <p>
-  <a href="https://github.com/9bix">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=031cfc" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-031cfc?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
-  </a>
-  <a href="mailto:arthurpedrosa831@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+### Links Rápidos
+
+<a href="https://github.com/9bix?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositórios-000000?style=for-the-badge&logo=github&logoColor=031cfc" />
+</a>
 
 </div>
 
@@ -27,17 +26,26 @@
 
 ## Sobre mim
 
-Sou desenvolvedor focado em criação de sistemas, bots para Discord, automações e aplicações web.  
-Tenho experiência com desenvolvimento back-end, integração com banco de dados, APIs e construção de soluções personalizadas para comunidades, servidores e projetos digitais.
+Sou desenvolvedor focado em criação de bots para Discord, sistemas web, automações e soluções digitais.  
+Atualmente estudo e desenvolvo projetos usando tecnologias modernas do ecossistema JavaScript, TypeScript, Python, React e Node.js.
 
-Atualmente estou evoluindo meus projetos com foco em:
+Tenho interesse em criar aplicações organizadas, funcionais e escaláveis, com foco em experiência visual, performance e utilidade real.
 
-- Bots para Discord;
-- Sistemas web;
-- APIs;
-- Automações;
-- Painéis administrativos;
-- Experiências digitais modernas.
+---
+
+## Discord
+
+<div align="center">
+
+<a href="https://discord.com/users/1424833780786663575">
+  <img 
+    width="420"
+    src="https://lanyard.cnrad.dev/api/1424833780786663575?theme=dark&bg=000000&borderRadius=16px&idleMessage=Desenvolvendo%20bots%20e%20projetos%20modernos&showDisplayName=true" 
+    alt="Discord Presence"
+  />
+</a>
+
+</div>
 
 ---
 
@@ -45,7 +53,7 @@ Atualmente estou evoluindo meus projetos com foco em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,java,php,mongodb,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,tailwind,mongodb,postgres,git,docker,firebase&theme=dark" />
 
 </div>
 
@@ -72,16 +80,6 @@ Atualmente estou evoluindo meus projetos com foco em:
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=9bix&theme=react-dark&hide_border=true&bg_color=0d1117&line=031cfc&color=ffffff&point=031cfc&area=true&custom_title=Gráfico%20de%20Contribuições" />
 
 </div>
-
----
-
-## Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| Bisonho Bot | Bot para Discord com múltiplas funções para servidores | Python, Disnake, MongoDB |
-| Portfólio Bisonho | Site moderno para apresentar o bot e suas funcionalidades | React, Tailwind, Framer Motion |
-| Sistemas Web | Aplicações e painéis personalizados | Node.js, MongoDB, APIs |
 
 ---
 
