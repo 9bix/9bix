@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/seu-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-031cfc?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:arthurpedrosa831@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
 </p>
