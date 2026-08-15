@@ -48,7 +48,7 @@ Tenho interesse em criar aplicações organizadas, funcionais e escaláveis, com
 <a href="https://discord.com/users/1524145854506860636">
   <img 
     width="520"
-    src="https://lanyard.cnrad.dev/api/1424833780786663575?theme=dark&bg=000000&borderRadius=16px&idleMessage=Desenvolvendo%20bots%20e%20projetos%20modernos&showDisplayName=true" 
+    src="https://lanyard.cnrad.dev/api/1524145854506860636?theme=dark&bg=000000&borderRadius=16px&idleMessage=Desenvolvendo%20bots%20e%20projetos%20modernos&showDisplayName=true" 
     alt="Discord Presence"
   />
 </a>
